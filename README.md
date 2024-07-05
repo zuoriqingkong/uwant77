@@ -37,17 +37,3 @@ inWind Landing Page is a Landing Page template developed for global SaaS project
 ### Thanks and Support
 
 -   Thanks to [@weijunext](https://weijunext.com/) for the open-source landingpage project, which referenced a lot of content
-
-### Let's be friends
-
--   QQ: 123060128
--   Twitter: [@huglemon520](x.com/huglemon520)
--   Email: [karma.zhao@gmail.com](mailto:karma.zhao@gmail.com)
--   Blog: [https://huglemon.com](https://huglemon.com)
-
-### Sponsorship
-
-If this project is helpful to you, you can buy me a can of Red Bull or a cofee
-
-[![buymeacoffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png "buymeacoffee")](https://buymeacoffee.com/huglemon "buymeacoffee")
-![pay qrcode](https://mp-bca925c9-72bc-4e92-8c87-d596015241bf.cdn.bspapp.com/2024/06/29/48706370-14858221-WechatIMG135.jpg)
