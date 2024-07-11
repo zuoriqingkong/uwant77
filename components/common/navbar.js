@@ -38,14 +38,14 @@ export default function Navbar() {
 				<Image
 					width={200}
 					height={200}
-					src={'/logo.gif'}
+					src={'/logo.png'}
 					className='transition-all hover:scale-110 w-6 md:w-10 h-6 md:h-10'
-					alt='logo'
+					alt='fortune telling logo'
 				></Image>
-				<h2 className='ml-3 font-bold leading-5'>Landing Page</h2>
+				<h2 className='ml-3 font-bold leading-5'>Fortune Telling</h2>
 			</a>
 
-			<ul className='w-3/5 px-5 font-medium hidden md:flex flex-nowrap items-center justify-around'>
+			{/* <ul className='w-3/5 px-5 font-medium hidden md:flex flex-nowrap items-center justify-around'>
 				{linkList.map((link, index) => {
 					return (
 						<li
@@ -64,7 +64,7 @@ export default function Navbar() {
 						</li>
 					);
 				})}
-			</ul>
+			</ul> */}
 
 			<div className='md:w-1/5 flex items-center justify-end gap-2'>
 				<label className='flex items-center justify-center md:bg-base-100 md:rounded-full w-5 md:w-8 h-5 md:h-8 md:shadow-sm md:hover:shadow-md transition-all'>
