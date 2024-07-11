@@ -18,7 +18,7 @@ export default async function Home({ params }) {
 				locale={dict.Hero}
 				CTALocale={dict.CTAButton}
 			/>
-			<Feature
+			{/* <Feature
 				locale={dict.Feature}
 				langName={langName}
 			/>
@@ -37,7 +37,7 @@ export default async function Home({ params }) {
 			<Cta
 				locale={dict.CTA}
 				CTALocale={dict.CTAButton}
-			/>
+			/> */}
 		</div>
 	);
 }
